@@ -1,0 +1,53 @@
+
+#final, #leftpane{
+	display: none;
+}
+
+#cheater{
+	display: none;
+}
+
+.basic{
+	margin:12% auto;
+	font-size: 50px;
+	text-align: center;
+	color:white;
+}
+
+.options{
+	text-align: center;
+}
+.option{
+	margin-bottom: 15px;
+}
+
+#process{
+	display: none;
+}
+
+.attempts{
+	font-size: 40px;
+	color: black;
+}
+
+.options{
+	margin-top:20px;
+}
+
+.Number{
+
+	margin:5px;
+}
+
+#num{
+	padding:2px;
+	font-family: Comic Sans MS, Arial;
+	font-size: 40px;
+	border: solid;
+	background-color: black;
+	margin-bottom: 5px;
+}
+
+.attempt{
+	text-shadow: 1px 1px 8px #fff;
+}
