@@ -7,7 +7,10 @@
 - since 1000 < 1024 , log2(1024) i.e. 10 steps atmost are required to predict the number.
 
 ### Screenshots : 
-![](screenshots/ss1.jpg)
-![](screenshots/ss2.jpg)
-![](screenshots/ss3.jpg)
-![](screenshots/ss4.jpg)
+- Answering Query
+![](screenshot/ss1.jpg)
+![](screenshot/ss4.jpg)
+- Computer Guessing Right
+![](screenshot/ss2.jpg)
+- When You Try to change number in between
+![](screenshot/ss3.jpg)
